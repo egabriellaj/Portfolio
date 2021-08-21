@@ -3,7 +3,7 @@
 body {
     margin: 0;
     background-color: whitesmoke;
-    background-image: url("images/DesertBackground.jpg");
+    background-image: url("images/desert-background.jpg");
     background-position: center;
     background-repeat: no-repeat;
   }
@@ -36,7 +36,7 @@ body {
   /* General Text Styling & Image Incorporation */
   
   header {
-    background-image: url("images/HeaderBackground.jpg");
+    background-image: url("images/header-background.jpg");
   }
   
   header h1 {
@@ -81,7 +81,7 @@ body {
   }
   
   footer {
-    background-image: url("images/FooterBackground.jpg");
+    background-image: url("images/footer-background.jpg");
   }
   
   footer h3 {
