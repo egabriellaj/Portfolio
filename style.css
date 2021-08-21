@@ -1,0 +1,117 @@
+/* Body Style & Background Image */
+
+body {
+    margin: 0;
+    background-color: whitesmoke;
+    background-image: url(DesertBackground.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  
+  div {
+    width: 660px;
+    background-color: #fff;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  
+  /* Profile Picture Incorporation */
+  
+  #imageContainer {
+    float: left;
+    width: 610px;
+    margin: 0;
+    min-width: 350px;
+  }
+  
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  
+  
+  /* General Text Styling & Image Incorporation */
+  
+  header {
+    background-image: url(HeaderBackground.jpg);
+  }
+  
+  header h1 {
+    color: black;
+    font-family: "Segoe Script", "Candara Light", "Calibri Light";
+    font-size: 54px;
+    text-align: center;
+  }
+  
+  h2 {
+    background-color: skyblue;
+    color: black;
+    font-family: "Candara Light", "Calibri Light";
+    text-align: center;
+    font-size: 24px;
+    margin: 30px;
+    padding: 10px;
+  }
+  
+  p {
+    color: black;
+    font-family:"Candara Light", "Calibri Light";
+    text-align: center;
+    font-size: 24px;
+  }
+  
+  h3 {
+    background-color: skyblue;
+    color: black;
+    font-family: "Candara Light", "Calibri Light";
+    text-align: center;
+    font-size: 36px;
+    margin: 30px;
+    padding: 10px;
+  }
+  
+  ul {
+    color: black;
+    font-family:"Candara Light", "Calibri Light";
+    text-align: center;
+    font-size: 24px;
+  }
+  
+  footer {
+    background-image: url(FooterBackground.jpg);
+  }
+  
+  footer h3 {
+    background-color: skyblue;
+      color: black;	
+    font-family: "Candara Light", "Calibri Light";
+      text-align: center;
+    font-size: 36px;
+    margin: 30px;
+    padding: 10px;
+  }
+  
+  /* Links Styles */
+  
+  a {
+      font-weight: 700;
+      text-decoration: none;
+    font-size: 24px;	
+  }
+  a:link { color: darkcyan }
+  a:visited { color: darkblue; }
+  a:hover { color: darkgreen; }
+  a:active { color: slategray; }
+  a:hover {
+      text-decoration: underline;	
+  }
+  
+  /* Specific Image Style */
+  
+  img, iframe { 
+    width: 35%;	
+    border-radius: 20px;
+  } 
