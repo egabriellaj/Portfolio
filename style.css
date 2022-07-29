@@ -33,7 +33,7 @@ body {
   }
   
   
-  /* General Text Styling & Image Incorporation */
+  /* General Text Styling, Color & Image Incorporation */
   
   header {
     background-image: url("images/header-background.jpg");
@@ -41,7 +41,7 @@ body {
   
   header h1 {
     color: black;
-    font-family: "Segoe Script", "Candara Light", "Calibri Light";
+    font-family: "Cambria", "Candara Light", "Calibri Light";
     font-size: 54px;
     text-align: center;
   }
@@ -49,7 +49,7 @@ body {
   h2 {
     background-color: skyblue;
     color: black;
-    font-family: "Candara Light", "Calibri Light";
+    font-family: "Cambria", "Candara Light", "Calibri Light";
     text-align: center;
     font-size: 24px;
     margin: 30px;
@@ -58,7 +58,7 @@ body {
   
   p {
     color: black;
-    font-family:"Candara Light", "Calibri Light";
+    font-family: "Cambria", "Candara Light", "Calibri Light";
     text-align: center;
     font-size: 24px;
   }
@@ -66,7 +66,7 @@ body {
   h3 {
     background-color: skyblue;
     color: black;
-    font-family: "Candara Light", "Calibri Light";
+    font-family: "Cambria", "Candara Light", "Calibri Light";
     text-align: center;
     font-size: 36px;
     margin: 30px;
@@ -75,7 +75,7 @@ body {
   
   ul {
     color: black;
-    font-family:"Candara Light", "Calibri Light";
+    font-family: "Cambria", "Candara Light", "Calibri Light";
     text-align: center;
     font-size: 24px;
   }
@@ -87,7 +87,7 @@ body {
   footer h3 {
     background-color: skyblue;
       color: black;	
-    font-family: "Candara Light", "Calibri Light";
+    font-family: "Cambria", "Candara Light", "Calibri Light";
       text-align: center;
     font-size: 36px;
     margin: 30px;
